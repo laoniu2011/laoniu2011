@@ -1,0 +1,4 @@
+18.181.227.105:9992
+2025-02-06 12:38:12,777 [+]The target Weblogic console address is exposed! The path is: http://18.181.227.105:9992/console/login/LoginForm.jsp Please try weak password blasting!
+2025-02-06 12:38:12,946 [+]The target Weblogic UDDI module is exposed! The path is: http://18.181.227.105:9992/uddiexplorer/ Please verify the SSRF vulnerability!
+2025-02-06 12:38:25,360 [+]The target weblogic has a JAVA deserialization vulnerability:CVE-2018-2894
